@@ -1,0 +1,15 @@
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\bin\Debug\net6.0\clientData.exe
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\bin\Debug\net6.0\clientData.deps.json
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\bin\Debug\net6.0\clientData.runtimeconfig.json
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\bin\Debug\net6.0\clientData.dll
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\bin\Debug\net6.0\clientData.pdb
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.csproj.AssemblyReference.cache
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.AssemblyInfo.cs
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.dll
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\refint\clientData.dll
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.pdb
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\clientData.genruntimeconfig.cache
+C:\Users\Użytkownik\Desktop\C#\clientData\clientData\obj\Debug\net6.0\ref\clientData.dll
